@@ -1,0 +1,2 @@
+# Zoom-desktop-control-reverse-shell
+This project was for a Special Course in Information Security at Aalto university. The goal of the project was to find weaknesses in Zooms desktop control feature. The script represented in this repo can open a reverse shell to the attackers machine if the victim has granted the attacker control to his desktop over Zoom. This script exploits Zooms lack of input sanitation from machine to machine.
